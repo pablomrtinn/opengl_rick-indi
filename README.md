@@ -2,6 +2,8 @@
 
 Este es un proyecto de gráficos por computador desarrollado con **C++**, **OpenGL 3.3** y el framework **Qt**. El proyecto consiste en una escena 3D interactiva que presenta al personaje Rick, una videocámara y una puerta automática con lógica de colisión/proximidad.
 
+<img width="338" height="307" alt="image" src="https://github.com/user-attachments/assets/62f58136-bab6-4f5b-8c27-e83c3debc8fd" />
+
 ---
 
 ## 🛠️ Tecnologías Utilizadas
